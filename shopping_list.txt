@@ -3,4 +3,5 @@ Bread x 3
 Coffee x 2
 Sugar x 4
 Pasta x 5
+Juice x 1
 
