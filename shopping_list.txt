@@ -2,4 +2,4 @@ Milk x 1
 Bread x 3
 Coffee x 2
 Salt x 4
-Pasta x 5
+Pasta x 3
